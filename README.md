@@ -1,2 +1,2 @@
 # endeavor
-An attempt to familiarize with Git while enabling Portfolio storage in the Hub
+An attempt to familiarize with Git while enabling misc projects storage in the Hub
